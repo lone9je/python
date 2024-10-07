@@ -83,3 +83,4 @@ account.deposit(100)
 account.withdraw(50)
 print(account.get_balance())  # Текущий баланс: 50
 # print(account.__balance)  # Ошибка: 'BankAccount' object has no attribute '__balance'
+#проверка апдейта
